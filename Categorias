@@ -4,27 +4,12 @@
 <channel>
 <name>[B][COLOR darkorange]FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/Filmes-01.png</thumbnail>
-<externallink>Link do Arquivo</externallink>
+<exterhttps://raw.githubusercontent.com/JrTechPlus/JrTechPlus/master/Filmes</externallink>
 <fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20filmes.jpg</fanart>
 <info>
 
 
 [COLOR gold][B]OS MELHORES FILMES ESTÃO AQUI.[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR darkorange]MUSICAS[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/M%C3%BAsicas-01.png</thumbnail>
-<externallink>Link do Arquivo</externallink>
-<fanart>https://ia601400.us.archive.org/0/items/series-vintage-01/M%C3%BAsicas-01.png</fanart>
-<info>
-
-
-[COLOR gold][B]AS MELHORES MUSICAS, OS MELHORES SHOWS, TUDO PRA VOCÊS.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -62,36 +47,6 @@
 
 <channels>
 <channel>
-<name>[B][COLOR darkorange]SÉRIES VINTAGES[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/S%C3%A9ries%20Vintage-01.png</thumbnail>
-<externallink>Link do Arquivo</externallink>
-<fanart>https://img.quizur.com/f/img5d34df54f27d05.48604921.jpg?lastEdited=1563746137</fanart>
-<info>
-
-
-[COLOR gold][B]AS MELHORES SÉRIES VINTAGES, ESTÃO AQUI, DISPONIVEIS PARA VOCÊ.[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR darkorange]TOKUSATSUS[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/Tokusatsus-01.png</thumbnail>
-<externallink>Link do Arquivo</externallink>
-<fanart>https://ia601400.us.archive.org/0/items/series-vintage-01/Tokusatsus-01.png</fanart>
-<info>
-
-
-[COLOR gold][B]Tokusatsu é um termo em japonês para filmes ou séries live-action que fazem um uso forte de efeitos especiais. Apesar de ser um termo japonês, hoje em dia, também refere-se as séries que seguem a mesma linha de produção e conceito ao redor do mundo.[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[B][COLOR darkorange]KIDS[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/kids-01.png</thumbnail>
 <externallink>Link do Arquivo</externallink>
@@ -100,21 +55,6 @@
 
 
 [COLOR gold][B]OS MELHORES DESENHOS VOCÊ ENCONTRA AQUI.[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR darkorange]JOGOS INESQUECÍVEIS[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/Jogos-01.png</thumbnail>
-<externallink>Link do Arquivo</externallink>
-<fanart>https://s2.glbimg.com/I6NKO3qao2FBmTU4eiC1Lxl5Z-k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/d/Z/4H74IvSum1L84Yv7vktw/carrossel-jogos-inesqueciveis.jpg</fanart>
-<info>
-
-
-[COLOR gold][B]OS MELHORES JOGOS, VIVA A EMOÇÃO DE REVER AQUELE JOGO QUE MARCOU GERAÇÕES.[/COLOR][/B]</info>
 </channel>
 </channels>
 
