@@ -7,7 +7,7 @@
 <info>
 
 
-[B][COLOR darkorange]Os Maiores Lançamentos do Cinema você encontra aqui no Nightwolf.[/COLOR][/B]</info>
+[B][COLOR darkorange]Os Maiores Lançamentos do Cinema você encontra aqui.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -22,7 +22,7 @@
 <info>
 
 
-[B][COLOR darkorange] - Já prepara o lencinho, e vem conosco curtir a coleção de filmes Dramas do Nightwolf - [/COLOR][/B]</info>
+[B][COLOR darkorange] - Já prepara o lencinho, e vem conosco curtir a coleção de filmes Dramas - [/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -32,42 +32,12 @@
 <channel>
 <name>[B][COLOR darkorange]GOSPEL[/COLOR][/B]</name>
 <thumbnail>https://aideiadigital.com.br/wp-content/uploads/2019/12/Pack-Gospel-PSD-gratis-1280x720.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Gospel</externallink>
+<externallink>https://raw.githubusercontent.com/JrTechPlus/JrTechPlus/master/Gospel</externallink>
 <fanart>https://aideiadigital.com.br/wp-content/uploads/2019/12/Pack-Gospel-PSD-gratis-1280x720.jpg</fanart>
 <info>
 
 
-[B][COLOR darkorange] - Coleção de Filmes Gospel do KamiKazee, cheios de Benção e Adoração. - [/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR darkorange]UNIVERSO MARVEL[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Universo%20Marvel_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Universo%20Marvel</externallink>
-<fanart>https://archive.org/download/marvel-universe/marvel-universe.jpg</fanart>
-<info>
-
-
-[B][COLOR darkorange]Todos os filmes do universo Marvel, chega primeiro aqui, confira nossa Coleção.[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR darkorange]UNIVERSO DC[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Universo%20DC_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Universo%20DC</externallink>
-<fanart>https://ia601509.us.archive.org/4/items/universodc_201910/Universo-DC-Renascimento-Capa-1155x650.jpg</fanart>
-<info>
-
-
-[B][COLOR darkorange]Todos os filmes do universo DC, estão aqui reunidos, confira a nossa Coleção.[/COLOR][/B]</info>
+[B][COLOR darkorange] - Coleção de Filmes Gospel do JrTechPlus, cheios de Benção e Adoração. - [/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -98,21 +68,6 @@
 
 
 [B][COLOR darkorange]Reuna a familia toda e venha dar boas gargalhadas com a nossa coleção de Comédia.[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR darkorange]MORTAL KOMBAT[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Mortal%20Kombat_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Mortal%20Kombat</externallink>
-<fanart>https://ia601507.us.archive.org/24/items/fanartmortal/fanart%20mortal.png</fanart>
-<info>
-
-
-[B][COLOR darkorange]Nem precisa dizer o quanto a nossa equipe não é apaixonado por MK, então bora juntos ver e rever todos os Filmes e Desenhos, "Gett Oveer Heerreee".[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -180,21 +135,6 @@
 
 <channels>
 <channel>
-<name>[B][COLOR darkorange]STAR WARS[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Star%20Wars_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Star%20Wars</externallink>
-<fanart>https://ia601409.us.archive.org/22/items/capastarwars/capa%20star%20wars.jpg</fanart>
-<info>
-
-
-[B][COLOR darkorange]Curta a nossa coleção de filmes DO Star Wars e que a força esteja com você[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[B][COLOR darkorange]FICÇÃO[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Fic%C3%A7%C3%A3o_Prancheta%201.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Fic%C3%A7%C3%A3o</externallink>
@@ -218,21 +158,6 @@
 
 
 [B][COLOR darkorange]Curta a nossa coleção de filmes de Nacionais.[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR red]ESPECIAL COVID-19[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Covid%2019_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Especial%20Covid-19</externallink>
-<fanart>https://ia601507.us.archive.org/17/items/logocovid19/Background%20Covid-19.jpg</fanart>
-<info>
-
-
-[B][COLOR darkorange]Curta a nossa coleção de filmes Baseado no fim dos tempos.[/COLOR][/B]</info>
 </channel>
 </channels>
 
