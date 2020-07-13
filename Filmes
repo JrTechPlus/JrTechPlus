@@ -90,24 +90,9 @@
 
 <channels>
 <channel>
-<name>[B][COLOR darkorange]EPICOS[/COLOR][/B]</name>
-<thumbnail>https://ia601401.us.archive.org/16/items/epicos520x520/EPICOS%20520X520.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Epicos</externallink>
-<fanart>https://ia601401.us.archive.org/16/items/epicos520x520/capa%20epicos.jpg</fanart>
-<info>
-
-
-[B][COLOR darkorange]Reuna a familia toda e venha relembrar os filmes Epicos[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[B][COLOR darkorange]FANTASIA[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Fantasia_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Fantasia</externallink>
+<externallink>https://raw.githubusercontent.com/JrTechPlus/JrTechPlus/master/Fantasia</externallink>
 <fanart>https://ia601401.us.archive.org/3/items/capafantasia/CAPA%20FANTASIA.png</fanart>
 <info>
 
@@ -120,24 +105,9 @@
 
 <channels>
 <channel>
-<name>[B][COLOR darkorange]FAROESTE[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Faroeste_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Faroeste</externallink>
-<fanart>https://mhmcdn.ynvolve.net/?w=750&h=450&quality=90&clipping=landscape&url=//manualdohomemmoderno.com.br/files/2014/11/filmes-de-faroeste.jpg&format=webp&hash=f7f07ac4d61983535a1413ac0b4cbf963baa5bdf5ef1fd369da0353d0d98ae57</fanart>
-<info>
-
-
-[B][COLOR darkorange]Curta a nossa coleção de filmes de Faroeste[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[B][COLOR darkorange]FICÇÃO[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Fic%C3%A7%C3%A3o_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Fic%C3%A7%C3%A3o</externallink>
+<externallink>https://raw.githubusercontent.com/JrTechPlus/JrTechPlus/master/Fic%C3%A7%C3%A3o</externallink>
 <fanart>https://ia601505.us.archive.org/26/items/capaficcao/CAPA%20FICCAO.jpg</fanart>
 <info>
 
@@ -152,7 +122,7 @@
 <channel>
 <name>[B][COLOR darkorange]NACIONAIS[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/33/items/col.-stephen-king-prancheta-1/Nacionais_Prancheta%201.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Nacionais</externallink>
+<externallink>https://raw.githubusercontent.com/JrTechPlus/JrTechPlus/master/Nacionais</externallink>
 <fanart>https://lh3.googleusercontent.com/proxy/JEG0v0sgrAWJnjYG0of5KqB5h4nga9VBqjPbTqtL-AMh3MRRLbWTDTeIc0zJqKx-m7tLIXWE7mmqA8QRJrot-imhJwFMuF8540BaKMYvxo72ayIGO0nfK164fe4Rew</fanart>
 <info>
 
